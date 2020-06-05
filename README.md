@@ -1,0 +1,1 @@
+"# React-Native-Modal-Rating" 
